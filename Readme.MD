@@ -4,7 +4,10 @@
 
 Simple snap scroll example using pure css and html
 
-<!DOCTYPE html>
+### Built With
+
+ <details open="open">
+    	<!DOCTYPE html>
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
@@ -16,14 +19,14 @@ Simple snap scroll example using pure css and html
 		/>
 		<link rel="stylesheet" href="./styles.css" />
 	</head>
-
-    <body>
-    	<div class="container">
-    		<section class="one"><h1>first</h1></section>
-    		<section class="two"><h1>second</h1></section>
-    		<section class="three"><h1>third</h1></section>
-    		<section class="four"><h1>fourth</h1></section>
-    	</div>
-    </body>
-
+<body>
+		<div class="container">
+			<section class="one"><h1>first</h1></section>
+			<section class="two"><h1>second</h1></section>
+			<section class="three"><h1>third</h1></section>
+			<section class="four"><h1>fourth</h1></section>
+		</div>
+	</body>
+	
 </html>
+</details >
